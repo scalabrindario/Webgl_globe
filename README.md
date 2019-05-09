@@ -1,4 +1,4 @@
-# Webg Globe
+# Webgl Globe
 
 I needed a cool data visualization in order to represent the busiest airport of 2018, and I want to share with all of you.<br> You can easily see in live to <a href="https://busiest-airport-2018.netlify.com/">this link</a>.
 
